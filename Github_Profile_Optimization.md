@@ -1,7 +1,6 @@
 # Github Profile Optimization
 
 ---
----
 
 ## Header
 
@@ -22,7 +21,7 @@ Websites where you can gif.
 <a href="https://pixabay.com/gifs/"> Pixabay : https://pixabay.com/gifs/ </a>
 
 ---
----
+
 
 
 ## Hero Section
@@ -56,7 +55,7 @@ For Colored text
 $\color{#4ab9e7}{\textsf{Your Text here}}$
 ```
 
----
+
 ---
 
 ## Socials 
@@ -88,7 +87,7 @@ $\color{#4ab9e7}{\textsf{Your Text here}}$
 
 
 ---
----
+
 
 ## Tech Stack
 
@@ -173,7 +172,7 @@ https://cdn.simpleicons.org/:icon_slug/:color?/
 <br>
 
 ---
----
+
 
 
 ## Github Stats
@@ -277,7 +276,7 @@ ambient_gradient
 ```
 
 ---
----
+
 
 # Footer
 
@@ -305,7 +304,7 @@ vertical
 ```
 
 ---
----
+
 
 ## Some of the profiles i love
 
@@ -316,3 +315,4 @@ https://github.com/Abhizz-b
 ```
 https://github.com/SP-XD
 ```
+
